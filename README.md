@@ -40,6 +40,6 @@ The challenge track includes straight sections, intersections, branching paths, 
 
 ## Additional Resources
 
-This project was completed during the Winter 2025 semester. Course website:
+This project was completed during the Winter 2025 semester. 
 
-https://cours.polymtl.ca/inf1900/intro/
+Course website: https://cours.polymtl.ca/inf1900/intro/
