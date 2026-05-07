@@ -1,0 +1,10 @@
+Compilation:
+1. Compiler la bibliotheque depuis le dossier lib avec `make`.
+2. Compiler l'application depuis le dossier app avec `make`.
+
+Installation sur le microcontroleur:
+1. Brancher le programmeur USBasp.
+2. Depuis le dossier app, executer `make install`.
+
+Nettoyage:
+- Executer `make clean` dans `app` et `lib`.

@@ -1,0 +1,11 @@
+# AVR build artifacts
+*.a
+*.d
+*.elf
+*.elf.map
+*.hex
+*.map
+*.o
+
+# Build output directories
+lib/obj/
